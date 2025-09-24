@@ -17,8 +17,8 @@ São modelos conceituais que descrevem as funções necessárias para a comunica
 | Modelo OSI (7 Camadas) | Modelo TCP/IP (4 Camadas) | Funções Principais |
 | --- | --- | --- |
 | **7. Aplicação** | **4. Aplicação** | Fornece interface com o usuário e a aplicação. Engloba as funções das camadas de Sessão, Apresentação e Aplicação do modelo OSI. |
-| **6. Apresentação** |  | Formatação, compressão e criptografia de dados.  |
-| **5. Sessão** |  | Cria, mantém e gerencia diálogos entre as aplicações. |
+| **6. Apresentação** |  **4. Aplicação**  | Formatação, compressão e criptografia de dados.  |
+| **5. Sessão** | **4. Aplicação**   | Cria, mantém e gerencia diálogos entre as aplicações. |
 | **4. Transporte** | **3. Transporte** | Responsável pela segmentação, sequenciamento e remontagem dos dados. Usa os protocolos TCP e UDP. |
 | **3. Rede** | **2. Internet** | Endereçamento lógico (IP), roteamento de pacotes entre redes diferentes e comutação de pacotes.  |
 | **2. Enlace** | **1. Acesso à Rede** | Endereçamento físico (MAC), controle de acesso ao meio e encapsulamento de quadros.  |
