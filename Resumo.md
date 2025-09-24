@@ -1,4 +1,4 @@
-# Revisão para a AP1 
+# Resumo das aulas 1 - 8
 
 ## **1. Introdução e Conceitos Fundamentais de Redes**
 
